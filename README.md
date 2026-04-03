@@ -115,6 +115,7 @@ This project follows a structured analytical pipeline:
    - recurrent neural networks
         - gru
         - lstm
+
 **Application / Visualization**
 - streamlit
 - altair
