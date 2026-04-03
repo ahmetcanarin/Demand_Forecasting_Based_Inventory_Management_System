@@ -112,7 +112,9 @@ This project follows a structured analytical pipeline:
 - numpy
 - scikit-learn
 - tensorflow
-
+   - recurrent neural networks
+        - gru
+        - lstm
 **Application / Visualization**
 - streamlit
 - altair
