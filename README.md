@@ -1,4 +1,4 @@
-# Demand Forecasting Based Inventory Management System
+# Demand Forecasting-Based Inventory Management System
 
 A data-driven decision support system that combines **demand forecasting**, **inventory-oriented analysis**, and **customer segmentation** to help businesses reduce stockouts, avoid overstock, and make more informed replenishment decisions.
 
