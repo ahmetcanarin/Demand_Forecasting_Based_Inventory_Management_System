@@ -146,7 +146,6 @@ The project includes multiple processed datasets:
 
 ### 1. Clone the repository
 
-```bash
 git clone <repository-url>
 cd Demand-forecasting-based-inventory-management-system
 
