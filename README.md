@@ -1,5 +1,6 @@
 > **Co-developed with @burak-basoglu**
 
+
 # 📦 Demand Forecasting Based Inventory Management System
 
 A comprehensive, data-driven decision support system designed to optimize inventory management through **demand forecasting**, **model comparison**, and **customer-centric insights**.
