@@ -1,4 +1,4 @@
-> **Co-developed with @burak-basoglu**
+> Co-developed with @burak-basoglu
 
 
 # 📦 Demand Forecasting Based Inventory Management System
