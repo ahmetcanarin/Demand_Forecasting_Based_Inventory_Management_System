@@ -147,8 +147,8 @@ The project includes multiple processed datasets:
 
 ### 1. Clone the repository
 
-git clone repository-url  
-cd Demand-forecasting-based-inventory-management-system
+git clone "repository-url"  
+cd Demand_Forecasting_Based_Inventory_Management_System
 
 ### 2. Install dependencies
 
