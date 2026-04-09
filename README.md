@@ -1,4 +1,5 @@
 > **Co-developed with @burak-basoglu**
+> **Live Dashboard:** https://hypeproject.streamlit.app/
 
 
 # 📦 Demand Forecasting-Based Inventory Management System
